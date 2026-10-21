@@ -1,13 +1,13 @@
 {
     "team": [
       {
-        "name": "Yusha Mirza",
+        "name": "Mansoor Ahmed",
         "role": "Functionality/Frontend",
         "bio": "Crafting seamless user experiences with clean and efficient web functionality.",
-        "image": "Assets/Images/team/yusha.jpeg",
+        "image": "Assets/Images/team/mansoor.jpeg",
         "social": {
-          "Instagram": "https://www.instagram.com/youshamirza03/",
-          "github": "https://github.com/YushaMirza"
+          "Instagram": "#",
+          "github": "https://github.com/Mansoorkhan7787"
         }
       },
       {
@@ -42,11 +42,11 @@
       }
     ],
     "leader": {
-      "name": "Yusha Mirza",
+      "name": "Mansoor Ahmed",
       "role": "Project Director & Lead Developer",
       "summary": [
-        "Yusha Mirza is passionate about crafting seamless web experiences. As the Founder and Lead Developer, he specializes in creating dynamic, user-friendly solutions that combine aesthetic appeal with technical precision."
+        "Mansoor Ahmed is passionate about crafting seamless web experiences. As the Founder and Lead Developer, he specializes in creating dynamic, user-friendly solutions that combine aesthetic appeal with technical precision."
       ],
-      "image": "Assets/Images/team/leader1.jpeg"
+      "image": "Assets/Images/team/mansoor.jpeg"
     }
   } 
